@@ -169,7 +169,10 @@ This app supports secure authentication, one-to-one chats, real-time messaging, 
 - bcrypt
 
 ---
+🎥 Video Demo
 
+<video src="https://github.com/user-attachments/assets/888ffc7f-fae6-40d2-8ad9-4d2d2ec930aa" controls="controls" style="max-width: 100%;">
+</video>
 ## ⚙️ Setup Instructions
 
 ### Backend
@@ -198,11 +201,6 @@ npx expo start
 
 📌 Ensure mobile and laptop are on the same Wi-Fi
 📌 Update API base URL with your local IP
-
-🎥 Video Demo
-
-<video src="https://github.com/user-attachments/assets/888ffc7f-fae6-40d2-8ad9-4d2d2ec930aa" controls="controls" style="max-width: 100%;">
-</video>
 
 📌 Key Learnings
 
