@@ -201,9 +201,8 @@ npx expo start
 
 🎥 Video Demo
 
-Add your demo video link here:
-
-https://your-video-link-here
+<video src="https://github.com/user-attachments/assets/888ffc7f-fae6-40d2-8ad9-4d2d2ec930aa" controls="controls" style="max-width: 100%;">
+</video>
 
 📌 Key Learnings
 
